@@ -1,21 +1,23 @@
 ## Hi 👋 I'm Vedhavathi Y A  
 
 🎓 Engineering Student (CSE)  
-💻 Coding daily | Learning step by step  
-🌱 Beginner in Web Development & Programming  
+💻 Beginner Developer | Learning step by step  
+🌱 Currently learning HTML, CSS, C & Java  
 
 ---
 
 ### 👩‍💻 About Me
-- 2nd Year Engineering Student
-- Learning **HTML, CSS, C, Java**
-- Interested in software development
+- 2nd Year Engineering Student (CSE)
+- Passionate about learning programming and web development
+- Improving problem-solving skills daily
+- Strong in communication, teamwork & leadership
 - Believe in **consistency over motivation**
 
 ---
 
 ### 🛠️ Skills
-- HTML | CSS  
+- HTML  
+- CSS  
 - C Programming  
 - Java (Basics)  
 - Git & GitHub  
@@ -23,14 +25,25 @@
 ---
 
 ### 📂 Projects
-- 🌐 First HTML Project  
-- 📘 Practice Programs  
-- 🧪 Mini coding tasks  
+- 🌐 Personal Portfolio Website (HTML & CSS)
+- 📘 Practice Programs in C & Java
+- 🧪 Mini coding tasks and exercises
 
 ---
 
-### 📊 GitHub Stats
-![Vedha's GitHub stats](https://github-readme-stats.vercel.app/api?username=vedha13cs&show_icons=true&theme=dark)
+### 🌐 Connect with Me
+
+💼 **LinkedIn**  
+https://www.linkedin.com/in/vedhavathi-y-a-830a75330  
+
+📸 **Instagram**  
+https://www.instagram.com/_vedhaaa_13  
+
+📧 **Email**  
+vedha9782@gmail.com  
+
+💻 **GitHub**  
+https://github.com/vedha13cs  
 
 ---
 
