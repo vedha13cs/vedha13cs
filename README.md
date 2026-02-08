@@ -1,16 +1,37 @@
-## Hi there 👋
+## Hi 👋 I'm Vedhavathi Y A  
 
-<!--
-**vedha13cs/vedha13cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Engineering Student (CSE)  
+💻 Coding daily | Learning step by step  
+🌱 Beginner in Web Development & Programming  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩‍💻 About Me
+- 2nd Year Engineering Student
+- Learning **HTML, CSS, C, Java**
+- Interested in software development
+- Believe in **consistency over motivation**
+
+---
+
+### 🛠️ Skills
+- HTML | CSS  
+- C Programming  
+- Java (Basics)  
+- Git & GitHub  
+
+---
+
+### 📂 Projects
+- 🌐 First HTML Project  
+- 📘 Practice Programs  
+- 🧪 Mini coding tasks  
+
+---
+
+### 📊 GitHub Stats
+![Vedha's GitHub stats](https://github-readme-stats.vercel.app/api?username=vedha13cs&show_icons=true&theme=dark)
+
+---
+
+✨ *Learning every day, one step at a time.*
