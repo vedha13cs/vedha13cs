@@ -33,7 +33,8 @@
 - Python 🐍  
 
 **Tools**
-- Git & GitHub  
+- Git & GitHub
+- vs code 
 
 ---
 
