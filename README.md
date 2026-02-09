@@ -2,7 +2,7 @@
 
 🎓 Engineering Student (CSE)  
 💻 Beginner Developer | Learning step by step  
-🌱 Currently learning HTML, CSS, C & Java  
+🌱 Currently learning **Python 🐍**  
 
 ---
 
@@ -15,35 +15,55 @@
 
 ---
 
+### 🚧 Currently Working On
+- Learning Python fundamentals
+- Writing small Python programs daily
+- Practicing basic problem-solving
+
+---
+
 ### 🛠️ Skills
+
+**Learned**
 - HTML  
 - CSS  
 - C Programming  
-- Java (Basics)  
+
+**Currently Learning**
+- Python 🐍  
+
+**Tools**
 - Git & GitHub  
 
 ---
 
 ### 📂 Projects
 - 🌐 Personal Portfolio Website (HTML & CSS)
-- 📘 Practice Programs in C & Java
-- 🧪 Mini coding tasks and exercises
+- 📘 Practice Programs in C
+- 🧪 Python beginner programs (in progress)
+
+---
+
+### 🎯 Learning Goals
+- Become confident in Python programming
+- Build real-world mini projects
+- Strengthen problem-solving skills
+- Learn data structures step by step
+
+---
+
+### ⏳ Daily Practice
+- ⌨️ Code every day (even small programs)
+- 📘 Revise concepts regularly
+- 🔁 Improve through consistency
 
 ---
 
 ### 🌐 Connect with Me
-
-💼 **LinkedIn**  
-https://www.linkedin.com/in/vedhavathi-y-a-830a75330  
-
-📸 **Instagram**  
-https://www.instagram.com/_vedhaaa_13  
-
-📧 **Email**  
-vedha9782@gmail.com  
-
-💻 **GitHub**  
-https://github.com/vedha13cs  
+- 💼 **LinkedIn**: [Vedhavathi Y A](https://www.linkedin.com/in/vedhavathi-y-a-830a75330)
+- 📸 **Instagram**: [_vedhaaa_13](https://www.instagram.com/_vedhaaa_13)
+- 📧 **Email**: [vedha9782@gmail.com](mailto:vedha9782@gmail.com)
+- 💻 **GitHub**: [vedha13cs](https://github.com/vedha13cs)
 
 ---
 
