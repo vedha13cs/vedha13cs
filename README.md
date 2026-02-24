@@ -1,71 +1,75 @@
 ## Hi 👋 I'm Vedhavathi Y A  
 
-🎓 Engineering Student (CSE)  
-💻 Beginner Developer | Learning step by step  
-🌱 Currently learning **Python 🐍**  
+🎓 B.Tech Computer Science Engineering Student  
+💻 Aspiring Full Stack Developer  
+🌱 Currently learning **Web Development & Python 🐍**  
+🔥 Focused on consistency and daily improvement  
 
 ---
 
 ### 👩‍💻 About Me
 - 2nd Year Engineering Student (CSE)
-- Passionate about learning programming and web development
-- Improving problem-solving skills daily
-- Strong in communication, teamwork & leadership
-- Believe in **consistency over motivation**
+- Completed HTML fundamentals
+- Currently exploring CSS & Python
+- Interested in Web Development & Problem Solving
+- Believe in **discipline, consistency & growth mindset**
 
 ---
 
-### 🚧 Currently Working On
-- Learning Python fundamentals
-- Writing small Python programs daily
-- Practicing basic problem-solving
+### 🚀 What I’m Doing Now
+- Building small web projects using HTML
+- Practicing Python basics daily
+- Strengthening core programming concepts
+- Learning step-by-step Data Structures
 
 ---
 
 ### 🛠️ Skills
 
-**Learned**
-- HTML  
-- CSS  
-- C Programming  
+**Web Development**
+- HTML ✅
+- CSS (Learning)
 
-**Currently Learning**
-- Python 🐍  
+**Programming**
+- Python 🐍 (Beginner Level)
+- C Programming
 
-**Tools**
+**Tools & Platforms**
 - Git & GitHub
-- vs code 
+- VS Code
+- Basic Command Line
 
 ---
 
 ### 📂 Projects
-- 🌐 Personal Portfolio Website (HTML & CSS)
-- 📘 Practice Programs in C
-- 🧪 Python beginner programs (in progress)
+- 🌐 Personal Portfolio Website (HTML)
+- 🧪 Python Beginner Programs
+- 🧩 HTML Mini Projects (Lists, Tables, Forms, etc.)
 
 ---
 
-### 🎯 Learning Goals
+### 🎯 2026 Learning Goals
 - Become confident in Python programming
+- Master HTML & CSS
+- Start JavaScript
+- Learn Data Structures step by step
 - Build real-world mini projects
-- Strengthen problem-solving skills
-- Learn data structures step by step
 
 ---
 
-### ⏳ Daily Practice
+### ⏳ Daily Routine
 - ⌨️ Code every day (even small programs)
-- 📘 Revise concepts regularly
+- 📘 Revise previously learned concepts
 - 🔁 Improve through consistency
 
 ---
 
-### 🌐 Connect with Me
-- 💼 **LinkedIn**: [Vedhavathi Y A](https://www.linkedin.com/in/vedhavathi-y-a-830a75330)
-- 📸 **Instagram**: [_vedhaaa_13](https://www.instagram.com/_vedhaaa_13)
-- 📧 **Email**: [vedha9782@gmail.com](mailto:vedha9782@gmail.com)
-- 💻 **GitHub**: [vedha13cs](https://github.com/vedha13cs)
+### 🌐 Connect With Me
+- 💼 LinkedIn: https://www.linkedin.com/in/vedhavathi-y-a-830a75330
+- 📸 Instagram: https://www.instagram.com/_vedhaaa_13
+- 📧 Email: vedha9782@gmail.com
+- 💻 GitHub: https://github.com/vedha13cs
 
 ---
 
-✨ *Learning every day, one step at a time.*
+✨ Learning every day. Growing step by step. Building my future through code.
