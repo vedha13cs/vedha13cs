@@ -66,7 +66,7 @@
 
 ### 🌐 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/vedhavathi-y-a-830a75330
-- 📸 Instagram: https://www.instagram.com/_vedhaaa_13
+- 📸 Instagram: https://www.instagram.com/_sudha.2028
 - 📧 Email: vedha9782@gmail.com
 - 💻 GitHub: https://github.com/vedha13cs
 
