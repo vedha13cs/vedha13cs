@@ -299,21 +299,6 @@ During my internship, I worked on real-world web development projects and collab
 
 </p>
 
----
-
-## 📈 Most Used Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=vedha13cs&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
----
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=vedha13cs&theme=tokyonight&no-frame=true&margin-w=15" />
-</p>
----
-
 # 📉 Contribution Graph
 
 <p align="center">
