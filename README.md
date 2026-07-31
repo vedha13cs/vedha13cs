@@ -1,174 +1,154 @@
-# Hi 👋 I'm Vedhavathi Y A
+# <h1 align="center">Hi 👋, I'm Vedhavathi Y A</h1>
 
-🎓 **3rd Year B.Tech Computer Science Engineering Student (5th Semester)**
-💻 **Aspiring Full Stack Developer | Java Enthusiast | Problem Solver**
-🌱 Currently learning **Java, Data Structures & Algorithms, and Full Stack Development**
-🤖 Passionate about **AI Prompt Engineering, Web Development, and Continuous Learning**
-🚀 Always learning, building, and improving every single day.
+<h3 align="center">💻 Software Engineer | Java Developer | Full Stack Developer | AI Prompt Engineer</h3>
 
----
-
-## 👩‍💻 About Me
-
-* 🎓 3rd Year B.Tech Computer Science Engineering Student
-* 💼 Successfully completed my **Software Engineer Internship** at **Abhimo Technologies Pvt. Ltd.**
-* 🏆 Received the **Best Intern Award** for outstanding performance during my internship
-* 🌐 Developed and deployed multiple live websites
-* ☕ Currently learning **Java Programming** and strengthening **Data Structures & Algorithms**
-* 🤖 Skilled in **AI Prompt Engineering (ChatGPT Prompting)**
-* 💡 Strong problem-solving and logical thinking skills
-* 🎯 Passionate about creating real-world web applications
-* 📚 Believe in **Discipline • Consistency • Continuous Growth**
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+My+GitHub!;Software+Engineer+Intern+at+Abhimo+Technologies;Java+Developer;Full+Stack+Developer;Problem+Solver;Always+Learning+Something+New+🚀" />
+</p>
 
 ---
 
-## 🚀 What I'm Doing Now
+## 🚀 About Me
 
-* ☕ Learning Java Programming
-* 📚 Practicing Data Structures & Algorithms
-* 🌐 Building Full Stack Development skills
-* 💻 Solving programming problems daily
-* 🤖 Exploring AI tools and Prompt Engineering
-* 🚀 Improving coding, communication, and technical skills every day
+🎓 3rd Year B.Tech Computer Science Engineering Student (5th Semester)
 
----
+🏆 Best Intern Award – Abhimo Technologies Pvt. Ltd.
 
-## 🛠️ Technical Skills
+💼 Completed Software Engineer Internship
 
-### 💻 Programming Languages
+☕ Currently Learning Java & Data Structures
 
-* Java ☕
-* Python 🐍
-* C Programming
+🤖 AI Prompt Engineering Enthusiast
 
-### 🌐 Web Development
+🌐 Passionate Full Stack Developer
 
-* HTML5
-* CSS3
-* JavaScript
-* Responsive Web Design
+💡 Strong Problem Solving Skills
 
-### 🧰 Tools & Platforms
-
-* Git & GitHub
-* VS Code
-* Command Line
-* ChatGPT & AI Tools
+🚀 Believe in Discipline • Consistency • Growth
 
 ---
 
-## 💼 Internship Experience
+## 🏅 Achievements
 
-### Software Engineer Intern
+🏆 Best Intern Award
 
-**Abhimo Technologies Pvt. Ltd.**
+💼 Software Engineer Intern @ Abhimo Technologies
 
-* Worked on real-time web development projects.
-* Developed responsive and user-friendly websites.
-* Collaborated with the development team.
-* Improved problem-solving, debugging, and teamwork skills.
-* Successfully delivered live client projects.
-* Awarded **Best Intern** for excellent performance and dedication.
+🌐 Developed Live Client Websites
+
+✅ Abhimo Website
+
+✅ Shruthi Website
+
+✅ Mahalakshmi Website
+
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
+<img src="https://skillicons.dev/icons?i=javascript"/>
+
+<img src="https://skillicons.dev/icons?i=c"/>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+</p>
 
 ---
 
 ## 🚀 Live Projects
 
-### 🌐 Abhimo Technologies Website
+🌐 Abhimo Technologies Website
 
-**Tech Stack:** HTML, CSS, JavaScript
+🎵 Shruthi Website
 
-* Responsive company website
-* Modern UI/UX
-* Optimized performance
-* Live production website
+🛕 Mahalakshmi Website
 
----
+**Tech Stack**
 
-### 🎵 Shruthi Website
+✔ HTML
 
-**Tech Stack:** HTML, CSS, JavaScript
+✔ CSS
 
-* Music-related responsive website
-* Interactive and clean interface
-* Mobile-friendly design
-* Live production website
+✔ JavaScript
 
 ---
 
-### 🛕 Mahalakshmi Website
+## 📚 Currently Learning
 
-**Tech Stack:** HTML, CSS, JavaScript
+☕ Java Programming
 
-* Responsive business website
-* Modern design
-* User-friendly interface
-* Live production website
+📚 Data Structures & Algorithms
 
----
+🌐 Full Stack Development
 
-## 💪 Core Strengths
-
-* ✔ Problem Solving
-* ✔ Logical Thinking
-* ✔ Quick Learner
-* ✔ Teamwork
-* ✔ Time Management
-* ✔ Adaptability
-* ✔ Communication Skills
-* ✔ AI Prompt Engineering
-* ✔ Continuous Learning
+🤖 AI Prompt Engineering
 
 ---
 
-## 🎯 2026 Learning Goals
+## 📊 GitHub Stats
 
-* Master Java Programming
-* Become highly confident in Data Structures & Algorithms
-* Learn React.js
-* Learn Backend Development
-* Build Full Stack Projects
-* Improve Competitive Programming
-* Explore AI & Prompt Engineering
-* Prepare for Software Engineer placements
+<p align="center">
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vedha13cs&show_icons=true&theme=tokyonight"/>
 
-## ⏳ Daily Routine
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=vedha13cs&theme=tokyonight"/>
 
-* ☕ Practice Java every day
-* 💻 Solve coding problems
-* 📘 Learn one new concept daily
-* 🔁 Revise previous topics
-* 🌐 Work on personal projects
-* 🤖 Explore AI tools and Prompt Engineering
-* 🚀 Stay consistent and keep improving
+</p>
 
 ---
 
-## 📈 Currently Learning
+## 📈 Most Used Languages
 
-* Java Programming
-* Data Structures & Algorithms
-* Object-Oriented Programming (OOP)
-* Full Stack Development
-* AI Prompt Engineering
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedha13cs&layout=compact&theme=tokyonight"/>
+
+</p>
 
 ---
 
-## 🌐 Connect With Me
+## 🐍 Contribution Snake
 
-💼 **LinkedIn**
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+## 🌍 Connect With Me
+
+💼 LinkedIn
+
 https://www.linkedin.com/in/vedhavathi-y-a-830a75330
 
-📸 **Instagram**
-https://www.instagram.com/_sudha.2028
+📧 Email
 
-📧 **Email**
-vedha9782@gmail.com
+[vedha9782@gmail.com](mailto:vedha9782@gmail.com)
 
-💻 **GitHub**
+💻 GitHub
+
 https://github.com/vedha13cs
+
+📸 Instagram
+
+https://www.instagram.com/_sudha.2028
 
 ---
 
@@ -176,6 +156,10 @@ https://github.com/vedha13cs
 
 > **"Success doesn't come from what you do occasionally. It comes from what you do consistently."**
 
----
+<p align="center">
 
-⭐ *Learning every day. Building real-world projects. Solving problems. Growing with consistency. One step closer to becoming a Software Engineer.*
+⭐ Thanks for visiting my profile! ⭐
+
+🚀 Keep Learning • Keep Building • Never Give Up
+
+</p>
