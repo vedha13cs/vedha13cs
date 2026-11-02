@@ -272,6 +272,30 @@ Learning new technologies, improving coding skills, participating in hackathons 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:080B16,50:0891B2,100:312E81&height=3" width="100%"/>
 
 </div>
+### ⚡ AI Tools & Developer Workflow
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" />
+  <img src="https://img.shields.io/badge/Google_Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stitch-8A2BE2?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/TestSprite-00BFA6?style=for-the-badge&logo=testinglibrary&logoColor=white" />
+  <img src="https://img.shields.io/badge/NotebookLM-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" />
+</p>
+
+### 💻 Development Environment
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,androidstudio&theme=dark" />
+</p>
+
+### 🛠️ Technologies I Work With
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,bootstrap,react,nodejs,mongodb,mysql&theme=dark" />
+</p>
+
 <br><br>
 **My goal is simple:**
 
