@@ -1,448 +1,362 @@
-<h1 align="center">Hi 👋, I'm Vedhavathi Y A</h1>
+<!-- =============== HERO SECTION =============== -->
 
-<h3 align="center">
-💻 Software Engineer | Java Developer | Full Stack Developer | AI Prompt Engineer
-</h3>
+<div align="center">
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00C6FF&center=true&vCenter=true&width=900&lines=Welcome+to+My+GitHub!;3rd+Year+Computer+Science+Engineering+Student;Software+Engineer+Intern+at+Abhimo+Technologies;Best+Intern+Award+Winner;Java+Developer;Full+Stack+Developer;Problem+Solver;AI+Prompt+Engineering+Enthusiast;Always+Learning+New+Things+🚀" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B16,50:312E81,100:06B6D4&height=230&section=header&text=VEDHAVATHI%20Y%20A&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=FULL%20STACK%20DEVELOPER%20%7C%20AI%20ENTHUSIAST&descSize=17&descAlignY=57&descColor=E0E7FF" width="100%"/>
 
-<p align="center">
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=vedha13cs&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/vedha13cs?style=for-the-badge&logo=github"/>
-
-<img src="https://img.shields.io/github/stars/vedha13cs?style=for-the-badge&logo=github"/>
-
-<img src="https://img.shields.io/badge/Open%20To-Internships-success?style=for-the-badge"/>
-
-</p>
-
----
-
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
-
-# 👩‍💻 About Me
-
-🎓 **3rd Year B.Tech Computer Science Engineering Student (5th Semester)**
-
-🏆 **Best Intern Award Winner**
-
-💼 Successfully completed **Software Engineer Internship** at **Abhimo Technologies Pvt. Ltd.**
-
-🌐 Built multiple real-world websites using **HTML, CSS & JavaScript**
-
-☕ Currently learning **Java Programming**, **Object-Oriented Programming**, and **Data Structures & Algorithms**
-
-🤖 Passionate about **AI Prompt Engineering** and using AI tools to improve productivity
-
-💡 Strong **Problem Solving**, **Logical Thinking**, and **Debugging Skills**
-
-🚀 Passionate about creating responsive, modern, and user-friendly web applications
-
-📚 I believe in **Discipline • Consistency • Continuous Learning**
-
----
-
-# 🏅 Awards & Recognition
-
-🥇 **Best Intern Award** – Abhimo Technologies Pvt. Ltd.
-
-💼 Successfully completed Software Engineer Internship
-
-🌐 Contributed to multiple production-ready websites
-
-🚀 Recognized for dedication, teamwork, quality work, and problem-solving skills
-
----
-
-# 💼 Internship Experience
-
-## 💻 Software Engineer Intern
-
-### 🏢 Abhimo Technologies Pvt. Ltd.
-
-During my internship, I worked on real-world web development projects and collaborated with the development team to build responsive and user-friendly websites.
-
-### My Responsibilities
-
-✔ Frontend Development
-
-✔ Responsive Web Design
-
-✔ Website Maintenance
-
-✔ Bug Fixing
-
-✔ UI Improvements
-
-✔ Team Collaboration
-
-✔ Problem Solving
-
-✔ Client Requirement Implementation
----
-
-# 🚀 Live Projects
-
-## 🌐 Abhimo Technologies Website
-
-<p align="center">
-
-<a href="https://abhimo.com/">
-<img src="https://img.shields.io/badge/🌐_Visit_Website-0078D4?style=for-the-badge"/>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hello%2C+World!+I'm+Vedhavathi+%F0%9F%91%8B;Building+Ideas+Into+Real+Projects;Exploring+Full+Stack+Development;Learning+Artificial+Intelligence;Code.+Create.+Innovate.+Repeat." alt="Typing SVG"/>
 </a>
 
-</p>
-
-### 💻 Tech Stack
-
-- HTML5
-- CSS3
-- JavaScript
-
-### ✨ Highlights
-
-✔ Fully Responsive Design
-
-✔ Modern User Interface
-
-✔ Fast Loading Performance
-
-✔ Mobile Friendly
-
-✔ Professional Business Website
-
-✔ Clean & Organized Code
-
----
-
-## 🛕 Mahalakshmi Industrial Association
-
-<p align="center">
-
-<a href="https://mahalaxmiindustrialassociation.org/">
-<img src="https://img.shields.io/badge/🌐_Visit_Website-success?style=for-the-badge"/>
-</a>
-
-</p>
-
-### 💻 Tech Stack
-
-- HTML5
-- CSS3
-- JavaScript
-
-### ✨ Highlights
-
-✔ Responsive Website
-
-✔ Professional Layout
-
-✔ User Friendly Interface
-
-✔ Clean Navigation
-
-✔ Optimized Performance
-
-✔ Mobile Friendly
-
----
-
-## 🎵 Shruthi Website
-
-🚧 **Currently Under Development**
-
-### 💻 Tech Stack
-
-- HTML5
-- CSS3
-- JavaScript
-
-### Status
-
-🔨 Coming Soon...
-
----
-
-# 💻 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java" height="55"/>
-<img src="https://skillicons.dev/icons?i=python" height="55"/>
-<img src="https://skillicons.dev/icons?i=html" height="55"/>
-<img src="https://skillicons.dev/icons?i=css" height="55"/>
-<img src="https://skillicons.dev/icons?i=javascript" height="55"/>
-<img src="https://skillicons.dev/icons?i=c" height="55"/>
-<img src="https://skillicons.dev/icons?i=git" height="55"/>
-<img src="https://skillicons.dev/icons?i=github" height="55"/>
-<img src="https://skillicons.dev/icons?i=vscode" height="55"/>
-
-</p>
-
----
-
-# 💪 Skills
-
-### 👨‍💻 Programming Languages
-
-- ☕ Java
-- 🐍 Python
-- 💻 C Programming
-- 🌐 JavaScript
-
----
-
-### 🌍 Frontend Development
-
-- HTML5
-- CSS3
-- Responsive Web Design
-- User Interface Design
-- Cross Browser Compatibility
-
----
-
-### ⚙️ Tools & Platforms
-
-- Git
-- GitHub
-- VS Code
-- Command Prompt
-- ChatGPT
-- AI Prompt Engineering
-
----
-
-### 🚀 Soft Skills
-
-✔ Problem Solving
-
-✔ Logical Thinking
-
-✔ Team Collaboration
-
-✔ Communication
-
-✔ Adaptability
-
-✔ Quick Learning
-
-✔ Time Management
-
-✔ Debugging
-
-✔ Creativity
-
-✔ Leadership
-
----
----
-
-# 📚 Currently Learning
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Data%20Structures-00599C?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Algorithms-FF6F00?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/OOP-6DB33F?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Full%20Stack-0A66C2?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/AI%20Prompting-412991?style=for-the-badge"/>
-
-</p>
-
-- ☕ Java Programming
-- 📚 Data Structures & Algorithms
-- 🎯 Object-Oriented Programming (OOP)
-- 🌐 Full Stack Development
-- 🤖 AI Prompt Engineering
-- 💻 Problem Solving
-
----
-
-# 🎯 2026 Goals
-
-✅ Master Java Programming
-
-✅ Master Data Structures & Algorithms
-
-✅ Learn React.js
-
-✅ Learn Backend Development
-
-✅ Build More Real-World Projects
-
-✅ Improve Problem Solving
-
-✅ Become a Full Stack Developer
-
-✅ Crack a Software Engineer Role
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=vedha13cs&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://streak-stats.demolab.com?user=vedha13cs&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-# 📉 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vedha13cs&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 📌 Featured Repositories
-
-⭐ **Abhimo Technologies Website**
-
-⭐ **Mahalakshmi Industrial Association Website**
-
-⭐ **Java Programs**
-
-⭐ **DSA in Java**
-
-⭐ **Portfolio Website**
-
----
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/vedhavathi-y-a-830a75330" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
-</a>
-
-<a href="mailto:vedha9782@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="55"/>
-</a>
+<br><br>
 
 <a href="https://github.com/vedha13cs">
-<img src="https://skillicons.dev/icons?i=github" height="55"/>
+<img src="https://komarev.com/ghpvc/?username=vedha13cs&label=PROFILE%20VIEWS&color=6366f1&style=for-the-badge" />
 </a>
 
-<a href="https://www.instagram.com/_sudha.2028">
-<img src="https://skillicons.dev/icons?i=instagram" height="55"/>
+<a href="https://github.com/vedha13cs?tab=followers">
+<img src="https://img.shields.io/github/followers/vedha13cs?style=for-the-badge&color=0891b2&label=FOLLOWERS" />
 </a>
 
-</p>
+</div>
 
 ---
 
-# 💡 Developer Philosophy
+<!-- =============== ABOUT ME =============== -->
 
-```java
-while(!success){
+<h2 align="center">◈ WHO AM I?</h2>
 
-    learn();
+```yaml
+name: Vedhavathi Y A
+education: B.Tech Computer Science Engineering
+university: Srinivas University
+year: 3rd Year
 
-    practice();
+role:
+  - Full Stack Developer
+  - AI Enthusiast
+  - Aspiring Software Engineer
 
-    improve();
+interests:
+  - Web Development
+  - Artificial Intelligence
+  - Problem Solving
+  - Building Real-World Projects
 
-    neverGiveUp();
-
-}
+mindset: "Learn continuously. Build fearlessly. Grow consistently."
 ```
 
-> **"Consistency beats talent when talent doesn't work consistently."**
+Hi! I'm **Vedhavathi**, a Computer Science Engineering student who loves transforming creative ideas into meaningful digital solutions.
+
+I enjoy exploring technology, developing websites, experimenting with AI tools and building projects that solve real-world problems.
+
+I'm continuously improving my development skills, exploring new technologies and challenging myself to become a better software engineer.
+
+* 🔭 Working on creative and practical development projects.
+* 🌱 Exploring Full Stack Development and Artificial Intelligence.
+* 💡 Interested in building technology that makes a difference.
+* 🏆 Best Intern Award recipient at Abhimo Technologies.
+* 🚀 Participated in the 24-hour Nexathon Hackathon.
+* 🎯 Working towards becoming a skilled Software Engineer.
 
 ---
 
-# ⚡ Fun Facts
+<!-- =============== TECH STACK =============== -->
 
-☕ I enjoy solving programming problems.
+<h2 align="center">◈ MY TECHNOLOGY UNIVERSE</h2>
 
-🚀 I love building responsive websites.
-
-🤖 I explore AI tools and Prompt Engineering.
-
-🌱 Every day I try to learn something new.
-
-💡 I believe discipline creates success.
-
----
-
-# 💼 Looking For
-
-✅ Software Engineering Opportunities
-
-✅ Java Developer Roles
-
-✅ Full Stack Development Projects
-
-✅ Open Source Contributions
-
-✅ Learning & Collaboration
-
----
-
-# ❤️ Thanks for Visiting
+<h3 align="center">Programming Languages</h3>
 
 <p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,js,c" />
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+GitHub!;Let's+Build+Amazing+Projects!;Happy+Coding!+💙" />
+<h3 align="center">Frontend Development</h3>
 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" />
+</p>
+
+<h3 align="center">Backend & Databases</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb" />
+</p>
+
+<h3 align="center">AI, Design & Developer Tools</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,googlecolab" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cursor-AI-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Google-Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Stitch-AI%20Design-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TestSprite-AI%20Testing-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NotebookLM-AI%20Research-4285F4?style=for-the-badge"/>
 </p>
 
 ---
 
-<p align="center">
+<!-- =============== PROJECTS =============== -->
 
-⭐ If you like my work, don't forget to ⭐ my repositories.
-
-</p>
+<h2 align="center">◈ THINGS I'VE BUILT</h2>
 
 <p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=120&section=footer"/>
-
+<em>Ideas are everywhere. I believe in bringing them to life.</em>
 </p>
-## 🏅 Achievements
 
-![](https://img.shields.io/badge/Best%20Intern-Abhimo%20Technologies-gold?style=for-the-badge)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-![](https://img.shields.io/badge/Java-Learner-orange?style=for-the-badge)
+<h3 align="center">🌉 FoodBridge AI</h3>
 
-![](https://img.shields.io/badge/Open%20Source-Enthusiast-blue?style=for-the-badge)
+<p align="center">
+<b>AI-Powered Food Rescue Platform</b>
+</p>
 
-![](https://img.shields.io/badge/Problem-Solver-success?style=for-the-badge)
-## 📅 Daily Focus
+A platform designed to connect hotels, restaurants and food donors with NGOs and people in need.
 
-- ☕ Java Programming
-- 📚 Data Structures & Algorithms
-- 💻 Building Projects
-- 🐞 Debugging & Problem Solving
-- 🤖 AI Prompt Engineering
+* Food donation management.
+* NGO and donor connections.
+* Food pickup coordination.
+* Location-based assistance.
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">🎨 ArtNova AI</h3>
+
+<p align="center">
+<b>From Handmade to Market-Ready</b>
+</p>
+
+A digital platform designed to help artisans showcase their handmade products and improve their product presentation.
+
+* Product image uploads.
+* Product catalogues.
+* AI-assisted descriptions.
+* Artisan product showcase.
+
+<a href="https://github.com/vedha13cs/ArtNova-AI">
+<img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🩸 BloodLine</h3>
+
+<p align="center">
+<b>Connecting Donors. Saving Lives.</b>
+</p>
+
+A blood donation assistance platform that helps people find blood donors and nearby medical facilities.
+
+* Donor registration.
+* Nearby donor search.
+* Nearby hospital finder.
+* Blood bank locator.
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">💻 Abhimo Website</h3>
+
+<p align="center">
+<b>Business Website Development</b>
+</p>
+
+A professional business website developed during my internship experience.
+
+* Responsive website.
+* Service information.
+* Internship application pages.
+* Contact and enquiry sections.
+
+<a href="https://abhimo.com">
+<img src="https://img.shields.io/badge/Visit%20Website-00A86B?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+
+<h3>🏢 Mahalaxmi Industrial Association Website</h3>
+
+A professional website created to present industrial association information and services.
+
+<a href="https://mahalaxmiindustrialassociation.org">
+<img src="https://img.shields.io/badge/Visit%20Website-00A86B?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
+
 ---
 
-<h2 align="center">
+<!-- =============== EXPERIENCE =============== -->
 
-🚀 Learn • Build • Share • Repeat
+<h2 align="center">◈ PROFESSIONAL JOURNEY</h2>
 
-</h2>
+<div align="center">
 
-<h3 align="center">
+### 💼 Software Engineer Intern
 
-"Dream Big. Stay Consistent. Success Will Follow."
+**Abhimo Technologies Pvt. Ltd.**
 
-</h3>
+🏆 Received the **Best Intern Award**
+
+</div>
+
+An important step in my development journey where I gained practical exposure to software development, website creation and working on real-world projects.
+
+---
+
+<!-- =============== ACHIEVEMENTS =============== -->
+
+<h2 align="center">◈ MILESTONES & ACHIEVEMENTS</h2>
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+🏆
+
+**BEST INTERN AWARD**
+
+Abhimo Technologies Pvt. Ltd.
+
+</td>
+<td align="center" width="50%">
+
+🚀
+
+**NEXATHON**
+
+24-Hour Hackathon Participant
+
+Shree Devi
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- =============== LEARNING =============== -->
+
+<h2 align="center">◈ CURRENTLY EXPLORING</h2>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Java%20%26%20DSA-Learning-ED8B00?style=flat-square"/>
+<img src="https://img.shields.io/badge/Full%20Stack%20Development-Exploring-6366F1?style=flat-square"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-Learning-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/React.js-Learning-61DAFB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Backend%20Development-Exploring-339933?style=flat-square"/>
+<img src="https://img.shields.io/badge/Advanced%20JavaScript-Learning-F7DF1E?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI%20Tools%20%26%20Automation-Exploring-06B6D4?style=flat-square"/>
+<img src="https://img.shields.io/badge/Problem%20Solving%20%26%20Aptitude-Practicing-EC4899?style=flat-square"/>
+</p>
+
+---
+
+<!-- =============== GITHUB STATS =============== -->
+
+<h2 align="center">◈ MY GITHUB UNIVERSE</h2>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vedha13cs&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vedha13cs&theme=tokyonight&hide_border=true&border_radius=12" />
+
+<br><br>
+
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedha13cs&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
+
+</div>
+
+---
+
+<h2 align="center">◈ GITHUB TROPHIES</h2>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=vedha13cs&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" width="100%"/>
+</p>
+
+---
+
+<!-- =============== CONTRIBUTION SNAKE =============== -->
+
+<h2 align="center">◈ CONTRIBUTION JOURNEY</h2>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/vedha13cs/vedha13cs/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
+</p>
+
+---
+
+<!-- =============== GOALS =============== -->
+
+<h2 align="center">◈ MY 2026 GOALS</h2>
+
+* [ ] Strengthen Java and DSA fundamentals.
+* [ ] Improve problem-solving skills.
+* [ ] Build and deploy meaningful projects.
+* [ ] Explore AI and machine learning.
+* [ ] Improve full-stack development skills.
+* [ ] Contribute to open-source projects.
+* [ ] Build a strong developer portfolio.
+* [ ] Prepare for software engineering placements.
+
+---
+
+<!-- =============== CONNECT =============== -->
+
+<h2 align="center">◈ LET'S CONNECT & CREATE</h2>
+
+<p align="center">
+I'm always interested in learning, collaborating, sharing ideas and building something meaningful.
+</p>
+
+<p align="center">
+
+<a href="https://github.com/vedha13cs">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/vedhavathi-y-a-830a75330">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://vedha13cs.github.io/Portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</p>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B16,50:312E81,100:06B6D4&height=130&section=footer"/>
+
+### ✨ "Dream big. Build bigger. Never stop learning."
+
+**Thanks for visiting my GitHub profile!**
+
+<code>while(alive) { learn(); build(); innovate(); }</code>
+
+</div>
