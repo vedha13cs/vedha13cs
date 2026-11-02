@@ -218,7 +218,61 @@ Learning new technologies, improving coding skills, participating in hackathons 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Every+expert+was+once+a+beginner.;Every+great+idea+starts+with+curiosity.;Every+line+of+code+is+a+chance+to+create.;The+journey+matters+as+much+as+the+destination." />
 
 <br><br>
+<!-- =============== DEVELOPER TOOLKIT =============== -->
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:312E81,50:0891B2,100:080B16&height=3" width="100%"/>
+
+<h2>⚡ &nbsp; MY DEVELOPER TOOLKIT &nbsp; ⚡</h2>
+
+<i>Every tool is a new possibility. Every technology is another skill to master.</i>
+
+<br><br>
+
+### 💻 Programming Languages
+
+<img src="https://skillicons.dev/icons?i=java,python,js,c&theme=dark" />
+
+<br><br>
+
+### 🎨 Frontend Development
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react&theme=dark" />
+
+<br><br>
+
+### ⚙️ Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql&theme=dark" />
+
+<br><br>
+
+### 🛠️ IDEs & Development Environment
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github,androidstudio&theme=dark" />
+
+<br><br>
+
+### 🤖 AI & Smart Development Tools
+
+<img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
+<img src="https://img.shields.io/badge/Cursor%20AI-171717?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Stitch-AI%20Design-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TestSprite-AI%20Testing-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NotebookLM-AI%20Research-4285F4?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080B16,50:0891B2,100:312E81&height=3" width="100%"/>
+
+</div>
+<br><br>
 **My goal is simple:**
 
 To become a skilled software engineer who doesn't just use technology, but creates meaningful solutions with it.
